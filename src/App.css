@@ -1,0 +1,13 @@
+h1{
+  background-color: blue;
+  text-decoration: dashed;
+  padding: 60;
+  color: blueviolet;
+}
+ button {
+  color: brown;
+background-color: azure;
+text-transform: uppercase;
+text-justify: inter-word;
+
+}
